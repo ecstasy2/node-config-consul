@@ -1,0 +1,23 @@
+{
+  "name": "consul-config",
+  "version": "0.0.1",
+  "description": "A extension to `node-config` that allow extending local configuration with consul KV store",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecstasy2/node-config-consul.git"
+  },
+  "keywords": [
+    "consul",
+    "node-config"
+  ],
+  "author": "Bobo Diallo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecstasy2/node-config-consul/issues"
+  },
+  "homepage": "https://github.com/ecstasy2/node-config-consul#readme"
+}
